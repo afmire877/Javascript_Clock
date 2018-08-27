@@ -1,12 +1,25 @@
-
 * {
 	margin: 0;
 	padding: 0;
 }
 
 body {
-	background: black;
+	font-family: 'Anton', sans-serif;
+	background: url(jon-tyson-228428-unsplash.jpg);
 }
-h1 {
-	color:white ;
+h1, span{
+	padding: 100px;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+.Clock {
+	background: rgba(0.5, 0.5, 0.5, 0.5);
+	padding: 100px;
+	text-align: center;
+	margin: 0 auto;
+}
+.colon {
+	padding-left: 20px;
+	padding-right: 20px;
 }
